@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 import secrets
 
-TOKEN = "wasy5if2187gdvwgsafl43wca"
+TOKEN = ""
 USERNAME = "kunal59"
 GRAPHID = "graph1"
 
